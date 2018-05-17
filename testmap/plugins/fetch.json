@@ -10,20 +10,12 @@
   "cordova-plugin-googlemaps": {
     "source": {
       "type": "registry",
-      "id": "https://github.com/mapsplugin/cordova-plugin-googlemaps#multiple_maps"
+      "id": "cordova-plugin-googlemaps@2.3.3"
     },
     "is_top_level": true,
     "variables": {
       "API_KEY_FOR_ANDROID": "AIzaSyDI9IqV1J3MutLrIUU4g6TACjyxzLllUb8",
       "API_KEY_FOR_IOS": "AIzaSyDI9IqV1J3MutLrIUU4g6TACjyxzLllUb8"
     }
-  },
-  "com.googlemaps.ios": {
-    "source": {
-      "type": "registry",
-      "id": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk"
-    },
-    "is_top_level": true,
-    "variables": {}
   }
 }

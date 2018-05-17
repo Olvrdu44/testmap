@@ -52,29 +52,7 @@
       <key>NSAllowsArbitraryLoads</key>
       <true/>
     </dict>
-    <key>Google Maps API Key</key>
-    <string>AIzaSyDI9IqV1J3MutLrIUU4g6TACjyxzLllUb8</string>
-    <key>NSLocationWhenInUseUsageDescription</key>
-    <string>This app wants to get your location while this app runs only.</string>
-    <key>NSLocationAlwaysUsageDescription</key>
-    <string>This app wants to get your location always, even this app runs in background.</string>
     <key>LSApplicationQueriesSchemes</key>
-    <array>
-      <string>googlechromes</string>
-      <string>comgooglemaps</string>
-    </array>
-    <key>CFBundleURLTypes</key>
-    <array>
-      <dict>
-        <key>CFBundleTypeRole</key>
-        <string>Editor</string>
-        <key>CFBundleURLName</key>
-        <string>fr.rainetcom.testmap</string>
-        <key>CFBundleURLSchemes</key>
-        <array>
-          <string>fr.rainetcom.testmap</string>
-        </array>
-      </dict>
-    </array>
+    <array/>
   </dict>
 </plist>

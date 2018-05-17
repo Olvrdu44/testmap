@@ -217,8 +217,7 @@ module.exports.metadata =
 // TOP OF METADATA
 {
   "cordova-plugin-whitelist": "1.3.3",
-  "cordova-plugin-googlemaps": "2.3.3",
-  "com.googlemaps.ios": "2.7.0"
+  "cordova-plugin-googlemaps": "2.3.3"
 };
 // BOTTOM OF METADATA
 });
